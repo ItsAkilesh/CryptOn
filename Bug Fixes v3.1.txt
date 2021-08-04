@@ -1,0 +1,8 @@
+-------------FINAL-------------
+Bug Fixes:
+-Decrypt wrong data: Shows custom error instead of PyMySQL error.
+-Wrong Username: Shows custom error instead of ValueError
+-PyMySQL Warnings: Cleared from StdOut
+-enc_key size limitations: Switched to LONGTEXT instead of INT.
+
+This is the coolest Build.
